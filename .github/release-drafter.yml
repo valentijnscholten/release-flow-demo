@@ -1,7 +1,7 @@
 name-template: '$NEXT_MINOR_VERSION 🌈'
 tag-template: '$NEXT_MINOR_VERSION'
 branches:
-  - master
+  - main
 change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
 template: |
   ## Changes
